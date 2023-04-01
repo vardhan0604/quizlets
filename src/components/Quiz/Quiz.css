@@ -1,0 +1,23 @@
+.Quiz{
+    padding-top: 0rem;
+}
+.Answer{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.6rem;
+}
+.Answer button{
+    padding: 1rem;
+    border: none;
+    background-color: #4D5B9E;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+.result{
+    color: #293264;
+    font-weight: 700;
+    margin-right: 40px;
+    font-size: 22px;
+
+}

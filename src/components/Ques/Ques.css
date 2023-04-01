@@ -1,0 +1,32 @@
+.ques{
+    padding-left: 15rem;
+    margin-top: 1.2rem;
+    color: 
+    #293264;
+    width: 75vw;
+}
+.ques button{
+    border: 2px solid #293264;
+    border-radius: 15px;
+    padding: 0.56rem;
+    /* background:none; */
+color: 
+    #293264;
+    display: inline-block;
+    font-weight: 600;
+    cursor: pointer;
+}
+.options{
+    display: flex;
+    gap: 3rem;
+    margin-bottom: 0.8rem;
+}
+.selected{
+    background-color: #D6DBF5;
+}
+.answer{
+    background-color: #94D7A2;
+}
+.wrong{
+    background-color: #F8BCBC;;
+}
