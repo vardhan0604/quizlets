@@ -33,7 +33,7 @@ function htmlEncode(input) {
        const ar=[...options,answer]
        shuffleArray(ar);
       setOptionsList(ar);
-    },[])
+    })
     const as= optionsList;
    
 
