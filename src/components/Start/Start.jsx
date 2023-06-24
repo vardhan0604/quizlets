@@ -2,6 +2,7 @@ import React from 'react'
 import './Start.css'
 const Start = (props) => {
   const{click}=props
+  
   return (
     <div className='container'>
         <div className='start'>
