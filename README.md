@@ -1,6 +1,8 @@
-
 # Quizlets
 Quizlet is a quiz app built with React that allows users to test their knowledge by answering trivia questions. It utilizes the OpenTrivia API to fetch the questions and provide an engaging quiz experience.
+
+![Project Image](src/components/images/ss.png)
+
 ##
 ## Features
 
