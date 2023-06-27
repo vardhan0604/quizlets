@@ -2,7 +2,7 @@
     padding-left: 15rem;
     margin-top: 1.2rem;
     color: 
-    #293264;
+    #E6E6FA;
     width: 75vw;
 }
 .ques button{
@@ -22,7 +22,7 @@ color:
     margin-bottom: 0.8rem;
 }
 .selected{
-    background-color: #D6DBF5;
+    background-color: #a8b4f0;
 }
 .answer{
     background-color: #94D7A2;
