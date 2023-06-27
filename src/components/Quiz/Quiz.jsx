@@ -6,7 +6,7 @@ import Confetti from 'react-confetti'
 const Quiz = (props) => {
   const {questions,restart,home}=props
   const [resultTime, SetResultTime]=React.useState(false)
-  const[score,setScore]=React.useState(0)
+  const [score,setScore]=React.useState(0)
   // const[score, setScore]=React.useState(0)
 
   const els=questions.map((el)=> 
